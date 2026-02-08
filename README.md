@@ -2,7 +2,7 @@
 
 ## Files
 - StudentsPerformance.csv → dataset
-- analysis.ipynb → notebook to explore data
+- lab2.ipynb → notebook to explore data
 - summary.md → short description of dataset and problem
 - diagram.png → methodology workflow
 
