@@ -1,1 +1,10 @@
-# lab-2
+# Assignment 2 - Students Performance
+
+## Files
+- StudentsPerformance.csv → dataset
+- analysis.ipynb → notebook to explore data
+- summary.md → short description of dataset and problem
+- diagram.png → methodology workflow
+
+## Description
+This project explores students' exam scores and personal attributes.
